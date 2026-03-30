@@ -28,7 +28,7 @@ gh-scripts/
 ├── automations/           # User-defined local scripts
 ├── templates/             # Code snippet storage
 └── docs/                  # Technical documentation
-    └── USER_GUIDE.md      # Detailed operational manual
+    └── user_guide.md      # Detailed operational manual
 ```
 
 ---
